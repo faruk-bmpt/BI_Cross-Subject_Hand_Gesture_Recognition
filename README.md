@@ -39,32 +39,32 @@ The main research questions are:
   -----------------------------------------------------------------------
   Workstream                          Purpose
   ----------------------------------- -----------------------------------
-  Dataset analysis                    Inspect gesture and subject
+  Dataset analysis:                    Inspect gesture and subject
                                       balance, recording completeness,
                                       and signal characteristics
 
-  Subject-independent evaluation      Measure cross-subject
+  Subject-independent evaluation:      Measure cross-subject
                                       generalization using LOSO
 
-  Few-shot calibration                Evaluate 0-, 1-, 3-, 5-, 7-, and
+  Few-shot calibration:                Evaluate 0-, 1-, 3-, 5-, 7-, and
                                       10-shot adaptation
 
-  Subject-dependent evaluation        Establish a
+  Subject-dependent evaluation:        Establish a
                                       personalized-performance benchmark
 
-  Feature ablation                    Assess the contribution of
+  Feature ablation:                    Assess the contribution of
                                       different feature groups
 
-  Statistical analysis                Evaluate differences across
+  Statistical analysis:                Evaluate differences across
                                       calibration settings and subjects
 
-  Explainability                      Rank discriminative features and
+  Explainability:                      Rank discriminative features and
                                       interpret their contributions
 
-  Runtime analysis                    Measure training/inference time and
+  Runtime analysis:                    Measure training/inference time and
                                       computational requirements
 
-  Visualization                       Produce figures and tables for
+  Visualization:                       Produce figures and tables for
                                       analysis and manuscript reporting
   -----------------------------------------------------------------------
 
